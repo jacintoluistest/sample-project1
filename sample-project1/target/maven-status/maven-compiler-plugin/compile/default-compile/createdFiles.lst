@@ -1,0 +1,4 @@
+com/tomsawyer/aws/tomcat/service/HelloWorldService.class
+com/tomsawyer/aws/tomcat/web/SampleController.class
+com/tomsawyer/aws/tomcat/SampleTomcatApplication.class
+com/tomsawyer/aws/tomcat/SampleTomcatApplication$1.class
